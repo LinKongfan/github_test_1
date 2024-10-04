@@ -39,6 +39,4 @@ int main()
     return 0;
 
 }
-
-//第二版
-//LALALLA
+//SFZAF AF A
