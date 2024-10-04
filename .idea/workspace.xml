@@ -18,11 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cbfcc06-b22c-4ba1-b07c-74a558ae3101" name="更改" comment="hello github_1">
-      <change afterPath="$PROJECT_DIR$/GIT_TEST.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GIT_TEST.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4cbfcc06-b22c-4ba1-b07c-74a558ae3101" name="更改" comment="hello github_1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +136,7 @@
       <workItem from="1726929732437" duration="1465000" />
       <workItem from="1728031615941" duration="660000" />
       <workItem from="1728032287675" duration="2104000" />
-      <workItem from="1728034414616" duration="2406000" />
+      <workItem from="1728034414616" duration="2849000" />
     </task>
     <task id="LOCAL-00001" summary="hello git">
       <option name="closed" value="true" />
@@ -190,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728036598130</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="hello github_1">
+      <option name="closed" value="true" />
+      <created>1728037018152</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728037018152</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
