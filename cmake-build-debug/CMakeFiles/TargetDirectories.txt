@@ -1,0 +1,3 @@
+E:/workspace_c/c_zoro/cmake-build-debug/CMakeFiles/c_zoro.dir
+E:/workspace_c/c_zoro/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/workspace_c/c_zoro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
